@@ -1,0 +1,65 @@
+/* .App {
+  gap: 20px;
+} */
+
+
+
+.App-header {
+  background-color: #7b50c4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.img1{
+  height: 45vmin;
+  border-radius: 10%;
+}
+
+.big{
+  font-size: 80px;
+  margin-top: 40px;
+}
+
+.rounded-navbar {
+  border-radius: 20px; 
+  color:#7b50c4;
+}
+
+.right-sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-right: 20px;
+  width: 95%;
+}
+
+.reviews{
+  max-width: 70%;
+  margin-top: 30px;
+}
+
+
+
+.reviews-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+
